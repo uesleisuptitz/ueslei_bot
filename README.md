@@ -43,8 +43,8 @@ De volta ao terminal:
 ## Comandos
 
 - /piada - O bot conta uma piada
-- /diga <sua mensagem> - O bot responde com a sua mensagem
-- /foto <descrição da foto> - O bot envia uma foto aleatória sobre a descrição
+- /diga < sua mensagem > - O bot responde com a sua mensagem
+- /foto < descrição da foto > - O bot envia uma foto aleatória sobre a descrição
 - /ajuda - O bot lista os comandos
 - /autor - O bot conta um pouco sobre o autor
 
